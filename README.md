@@ -49,4 +49,4 @@ Built with Python, pandas, scikit-learn, and matplotlib.
 
 ## Credits
 
-A team project by The Databetics: Sophia Shen, Meghan Howell, Sylvie Bon-Harper, and Jeslyn Pratiknjo, for DATA110. The full report is in [diabetes_project_full_report.pdf](diabetes_project_full_report.pdf).
+A team project by The Databetics: Sophia Shen, Meghan Howell, Sylvie Bon-Harper, and Jeslyn Pratiknjo, for DATA110. The full report is in [Predicting Diabetes_Final Project Writeup.pdf](Predicting Diabetes_Final Project Writeup.pdf).
