@@ -1,8 +1,8 @@
 # Predicting and Understanding Diabetes Risk
 
-Which health factors are most linked to diabetes, and can we use them to flag who's at risk? This project digs into CDC survey data to find out.
+This project uses CDC survey data to identify and understand health factors most linked to diabetes.
 
-![Project poster summarizing the diabetes risk analysis](poster.png)
+![Project poster summarizing the diabetes risk analysis](assets/poster.png)
 
 ## The question
 
